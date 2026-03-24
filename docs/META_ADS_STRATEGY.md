@@ -268,6 +268,46 @@ python3 scripts/upload_to_meta.py --segment baby_shower --ad-set-id XXXXX --dir 
 
 ---
 
+## AI Agent Analysis Guidelines
+
+The daily AI optimizer agent must follow these rules when analyzing data:
+
+### Do NOT flag as issues:
+- **Ads with 0 impressions on Day 1-2.** Normal — not every ad gets served in the first 48 hours with $200/day across 20 ads. Only flag 0-impression ads after 7+ days.
+- **0 registrations with low page views.** Landing page view ≠ registration. The funnel is: ad click → landing page view → sign up → complete_registration. At 20-30% conversion rate, you need 4-5 page views per registration. Low spend = low page views = 0 registrations is expected.
+- **Duplicate filenames.** Two ads can share the same base inspiration filename (e.g., `611603080`) but be completely different images. Check the image hash, not the filename. Different hash = different creative = no Andromeda suppression risk.
+
+### Do flag:
+- Ads with 0 impressions after 7+ days (truly stuck)
+- Ads with $16+ spend and 0 conversions (confirmed losers)
+- Significant CTR/CPM trends over 3+ consecutive days (fatigue)
+- Ad sets where both ads are underperforming vs account average
+
+### Conversion tracking:
+- Primary metric: `complete_registration`
+- Custom conversions (`offsite_conversion.custom.*`) may fire for different funnel events — these are secondary signals, not the primary CPA metric
+- Google Ads data shows ~44% conversion underreporting vs actual DB numbers — Meta may have similar gaps
+
+---
+
+## Daily Automation Pipeline
+
+| Time (Israel) | Component | What |
+|:---:|---|---|
+| 7:50 AM | Supabase Edge Function (`meta-extract`) | Pulls Meta API data → commits `data/latest.json` to GitHub |
+| 8:00 AM | Remote Claude Code Agent (Opus 4.6) | Reads data → analyzes → writes decisions + report → pushes to GitHub |
+| 8:30 AM | Supabase Edge Function (`meta-execute`) | Reads `data/decisions.json` → executes actions via Meta API → emails report |
+
+**Infrastructure:**
+- GitHub repo: `eimribar/invitfull-meta-ads` (public)
+- Supabase project: `yhrifwcqwluhbhwquxqn`
+- Config table: `ads_config` (Meta token, Mailtrap token, GitHub token)
+- Trigger ID: `trig_01TDLXV9qEFHvSSYcWyTVAVr`
+- Edge functions: `meta-extract`, `meta-execute`
+- Cron jobs: `meta-extract-daily` (5:50 UTC), `meta-execute-daily` (6:30 UTC)
+
+---
+
 ## Next Steps
 
 1. **March 30:** Day 7 evaluation — identify winners and losers from ABO testing

@@ -14,3 +14,4 @@ general/output/
 scripts/__pycache__/
 .DS_Store
 
+data/github-token.txt
