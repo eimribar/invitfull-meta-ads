@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "adId": "52527096170538",
+    "shortName": "invitfull_634334497 (Test 7-A)",
+    "adSetHeadline": "Free Baby Shower Invitations by AI",
+    "creativeType": "branded_product",
+    "hooks": ["free", "AI", "baby shower"],
+    "dayOneSignal": "PROMISING",
+    "metrics": {
+      "day1_spend": 2.63,
+      "day1_impressions": 272,
+      "day1_ctr": 1.10,
+      "day1_cpm": 9.67,
+      "day1_link_clicks": 1,
+      "day1_custom_conversions": 1,
+      "day1_post_saves": 1
+    },
+    "notes": "Lowest CPM in campaign. Organic engagement (post save). Algorithm finds strong audience match for AI + Free messaging."
+  },
+  {
+    "adId": "52527098754738",
+    "shortName": "invitfull_639555072 (Test 9-A)",
+    "adSetHeadline": "Custom Baby Shower Invites in 60 Seconds",
+    "creativeType": "branded_product",
+    "hooks": ["custom", "60 seconds", "speed"],
+    "dayOneSignal": "PROMISING",
+    "metrics": {
+      "day1_spend": 2.74,
+      "day1_impressions": 264,
+      "day1_ctr": 1.14,
+      "day1_cpm": 10.38,
+      "day1_link_clicks": 2,
+      "day1_custom_conversions": 1
+    },
+    "notes": "Efficient delivery. Speed + customization angle works."
+  },
+  {
+    "adId": "52527088268338",
+    "shortName": "invitfull_483914283 (Test 1-A)",
+    "adSetHeadline": "Baby Shower Invitations — Free Forever",
+    "creativeType": "branded_product",
+    "hooks": ["free forever", "baby shower invitations"],
+    "dayOneSignal": "PROMISING",
+    "metrics": {
+      "day1_spend": 2.89,
+      "day1_impressions": 154,
+      "day1_ctr": 2.60,
+      "day1_cpm": 18.77,
+      "day1_link_clicks": 1,
+      "day1_custom_conversions": 1
+    },
+    "notes": "Highest CTR in campaign. 'Free Forever' is a strong scroll-stopper. Higher CPM but high engagement compensates."
+  },
+  {
+    "adId": "52527091364938",
+    "shortName": "invitfull_579711182 (Test 3-B)",
+    "adSetHeadline": "Invitfull vs. Other Invitation Sites",
+    "creativeType": "comparison",
+    "hooks": ["comparison", "vs competitors"],
+    "dayOneSignal": "PROMISING",
+    "metrics": {
+      "day1_spend": 2.45,
+      "day1_impressions": 150,
+      "day1_ctr": 0.67,
+      "day1_cpm": 16.33,
+      "day1_link_clicks": 1,
+      "day1_custom_conversions": 2
+    },
+    "notes": "Best downstream conversion rate (2 custom conversions). Comparison angle drives intent."
+  },
+  {
+    "adId": "52527092123938",
+    "shortName": "invitfull_586126917 (Test 4-A)",
+    "adSetHeadline": "Send Baby Shower Invites in Under a Minute",
+    "creativeType": "branded_product",
+    "hooks": ["under a minute", "send"],
+    "dayOneSignal": "WEAK",
+    "metrics": {
+      "day1_spend": 1.59,
+      "day1_impressions": 129,
+      "day1_ctr": 0,
+      "day1_cpm": 12.33,
+      "day1_link_clicks": 0,
+      "day1_custom_conversions": 0
+    },
+    "notes": "Zero engagement despite 129 impressions. Feature-heavy copy may not resonate."
+  },
+  {
+    "adId": "52527089499738",
+    "shortName": "invitfull_497510807 (Test 2-A)",
+    "adSetHeadline": "RSVPs, Registry, Directions — One Link",
+    "creativeType": "branded_product",
+    "hooks": ["features", "one link", "RSVPs"],
+    "dayOneSignal": "WEAK",
+    "metrics": {
+      "day1_spend": 1.60,
+      "day1_impressions": 53,
+      "day1_ctr": 0,
+      "day1_cpm": 30.19,
+      "day1_link_clicks": 0,
+      "day1_custom_conversions": 0
+    },
+    "notes": "Highest CPM, zero clicks. Feature-list approach not working."
+  },
+  {
+    "adId": "52527100017138",
+    "shortName": "invitfull_646353941 (Test 10-A)",
+    "adSetHeadline": "Plan Your Baby Shower in 60 Seconds",
+    "creativeType": "branded_product",
+    "hooks": ["plan", "60 seconds"],
+    "dayOneSignal": "WEAK",
+    "metrics": {
+      "day1_spend": 2.66,
+      "day1_impressions": 139,
+      "day1_ctr": 0,
+      "day1_cpm": 19.14,
+      "day1_link_clicks": 0,
+      "day1_custom_conversions": 0
+    },
+    "notes": "Second highest ad spend, zero clicks. 'Plan' is too generic vs 'Create' or 'Custom'."
+  }
+]

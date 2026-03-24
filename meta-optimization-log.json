@@ -11,5 +11,40 @@
       "totalSpend": 13.09,
       "totalConversions": 0
     }
+  },
+  {
+    "date": "2026-03-24",
+    "dryRun": false,
+    "dayOfTest": 1,
+    "actions": [],
+    "warnings": [
+      "Budget underdelivery: $30.38 of $200 expected (15%)",
+      "Zero complete_registration events despite 13 landing page views — verify pixel",
+      "Test 8 missing second ad — only 1 of 2 creatives serving",
+      "Unknown custom conversion IDs firing (1379503393742648, 1100418405334956) — identify these",
+      "Test 5 has duplicate creative (same base image in both ad slots) — Andromeda suppression risk"
+    ],
+    "summary": {
+      "totalAds": 19,
+      "adsWithData": 19,
+      "adsMissingData": 1,
+      "winners": 0,
+      "losers": 0,
+      "learning": 19,
+      "totalSpend": 30.38,
+      "totalConversions": 0,
+      "totalImpressions": 2603,
+      "totalLinkClicks": 19,
+      "totalLandingPageViews": 13,
+      "customOffsiteConversions": 15,
+      "avgCTR": 1.14,
+      "avgCPM": 14.72,
+      "avgFrequency": 1.09
+    },
+    "earlySignals": {
+      "promising": ["Test 7 (lowest CPM, post save)", "Test 9 (efficient reach)", "Test 1 (highest CTR)", "Test 3-B (most custom conversions)"],
+      "concerning": ["Test 4 (0 clicks)", "Test 2-A (high CPM, 0 clicks)", "Test 10-A (0 clicks)"]
+    },
+    "nextEvaluation": "2026-03-26"
   }
 ]
