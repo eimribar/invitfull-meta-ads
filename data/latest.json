@@ -1,5 +1,5 @@
 {
-  "extractedAt": "2026-03-24T11:25:43.583Z",
+  "extractedAt": "2026-03-24T12:01:06.789Z",
   "date": "2026-03-24",
   "aboCampaignId": "52527087644338",
   "campaigns": [
@@ -294,9 +294,9 @@
     {
       "adset_name": "Test 1 — Broad US",
       "adset_id": "52527087870738",
-      "spend": "2.6",
-      "impressions": "132",
-      "clicks": "4",
+      "spend": "2.96",
+      "impressions": "159",
+      "clicks": "5",
       "actions": [
         {
           "action_type": "link_click",
@@ -327,19 +327,19 @@
           "value": "2"
         }
       ],
-      "ctr": "3.030303",
-      "cpc": "0.65",
-      "cpm": "19.69697",
-      "reach": "117",
-      "frequency": "1.128205",
+      "ctr": "3.144654",
+      "cpc": "0.592",
+      "cpm": "18.616352",
+      "reach": "144",
+      "frequency": "1.104167",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
     {
       "adset_name": "Test 2 — Broad US",
       "adset_id": "52527088909538",
-      "spend": "2.47",
-      "impressions": "139",
+      "spend": "3.61",
+      "impressions": "180",
       "clicks": "1",
       "actions": [
         {
@@ -371,61 +371,105 @@
           "value": "1"
         }
       ],
-      "ctr": "0.719424",
-      "cpc": "2.47",
-      "cpm": "17.769784",
-      "reach": "117",
-      "frequency": "1.188034",
+      "ctr": "0.555556",
+      "cpc": "3.61",
+      "cpm": "20.055556",
+      "reach": "157",
+      "frequency": "1.146497",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
     {
       "adset_name": "Test 3 — Broad US",
       "adset_id": "52527090267338",
-      "spend": "1.88",
-      "impressions": "126",
+      "spend": "2.59",
+      "impressions": "158",
       "clicks": "1",
-      "ctr": "0.793651",
-      "cpc": "1.88",
-      "cpm": "14.920635",
-      "reach": "111",
-      "frequency": "1.135135",
+      "actions": [
+        {
+          "action_type": "link_click",
+          "value": "1"
+        },
+        {
+          "action_type": "page_engagement",
+          "value": "1"
+        },
+        {
+          "action_type": "landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "omni_landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "post_engagement",
+          "value": "1"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1379503393742648",
+          "value": "2"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1100418405334956",
+          "value": "2"
+        }
+      ],
+      "ctr": "0.632911",
+      "cpc": "2.59",
+      "cpm": "16.392405",
+      "reach": "140",
+      "frequency": "1.128571",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
     {
       "adset_name": "Test 4 — Broad US",
       "adset_id": "52527091472938",
-      "spend": "1.93",
-      "impressions": "149",
+      "spend": "2.42",
+      "impressions": "195",
       "clicks": "1",
-      "ctr": "0.671141",
-      "cpc": "1.93",
-      "cpm": "12.95302",
-      "reach": "126",
-      "frequency": "1.18254",
+      "ctr": "0.512821",
+      "cpc": "2.42",
+      "cpm": "12.410256",
+      "reach": "181",
+      "frequency": "1.077348",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
     {
       "adset_name": "Test 5 — Broad US",
       "adset_id": "52527093116938",
-      "spend": "1.71",
-      "impressions": "116",
-      "clicks": "1",
-      "ctr": "0.862069",
-      "cpc": "1.71",
-      "cpm": "14.741379",
-      "reach": "103",
-      "frequency": "1.126214",
+      "spend": "2.15",
+      "impressions": "149",
+      "clicks": "3",
+      "actions": [
+        {
+          "action_type": "link_click",
+          "value": "2"
+        },
+        {
+          "action_type": "page_engagement",
+          "value": "2"
+        },
+        {
+          "action_type": "post_engagement",
+          "value": "2"
+        }
+      ],
+      "ctr": "2.013423",
+      "cpc": "0.716667",
+      "cpm": "14.42953",
+      "reach": "136",
+      "frequency": "1.095588",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
     {
       "adset_name": "Test 6 — Broad US",
       "adset_id": "52527094600338",
-      "spend": "2.17",
-      "impressions": "162",
+      "spend": "2.75",
+      "impressions": "201",
       "clicks": "1",
       "actions": [
         {
@@ -457,19 +501,19 @@
           "value": "1"
         }
       ],
-      "ctr": "0.617284",
-      "cpc": "2.17",
-      "cpm": "13.395062",
-      "reach": "143",
-      "frequency": "1.132867",
+      "ctr": "0.497512",
+      "cpc": "2.75",
+      "cpm": "13.681592",
+      "reach": "193",
+      "frequency": "1.041451",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
     {
       "adset_name": "Test 7 — Broad US",
       "adset_id": "52527095718138",
-      "spend": "2.42",
-      "impressions": "265",
+      "spend": "3.18",
+      "impressions": "338",
       "clicks": "4",
       "actions": [
         {
@@ -517,63 +561,19 @@
           "value": "2"
         }
       ],
-      "ctr": "1.509434",
-      "cpc": "0.605",
-      "cpm": "9.132075",
-      "reach": "236",
-      "frequency": "1.122881",
+      "ctr": "1.183432",
+      "cpc": "0.795",
+      "cpm": "9.408284",
+      "reach": "307",
+      "frequency": "1.100977",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
     {
       "adset_name": "Test 8 — Broad US",
       "adset_id": "52527096966138",
-      "spend": "2.52",
-      "impressions": "175",
-      "clicks": "2",
-      "actions": [
-        {
-          "action_type": "link_click",
-          "value": "1"
-        },
-        {
-          "action_type": "page_engagement",
-          "value": "1"
-        },
-        {
-          "action_type": "landing_page_view",
-          "value": "1"
-        },
-        {
-          "action_type": "omni_landing_page_view",
-          "value": "1"
-        },
-        {
-          "action_type": "post_engagement",
-          "value": "1"
-        },
-        {
-          "action_type": "offsite_conversion.custom.1379503393742648",
-          "value": "1"
-        },
-        {
-          "action_type": "offsite_conversion.custom.1100418405334956",
-          "value": "1"
-        }
-      ],
-      "ctr": "1.142857",
-      "cpc": "1.26",
-      "cpm": "14.4",
-      "reach": "168",
-      "frequency": "1.041667",
-      "date_start": "2026-03-10",
-      "date_stop": "2026-03-24"
-    },
-    {
-      "adset_name": "Test 9 — Broad US",
-      "adset_id": "52527098169138",
-      "spend": "2.59",
-      "impressions": "193",
+      "spend": "3.45",
+      "impressions": "243",
       "clicks": "3",
       "actions": [
         {
@@ -585,23 +585,83 @@
           "value": "2"
         },
         {
+          "action_type": "landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "omni_landing_page_view",
+          "value": "1"
+        },
+        {
           "action_type": "post_engagement",
           "value": "2"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1379503393742648",
+          "value": "1"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1100418405334956",
+          "value": "1"
         }
       ],
-      "ctr": "1.554404",
-      "cpc": "0.863333",
-      "cpm": "13.419689",
-      "reach": "175",
-      "frequency": "1.102857",
+      "ctr": "1.234568",
+      "cpc": "1.15",
+      "cpm": "14.197531",
+      "reach": "229",
+      "frequency": "1.061135",
+      "date_start": "2026-03-10",
+      "date_stop": "2026-03-24"
+    },
+    {
+      "adset_name": "Test 9 — Broad US",
+      "adset_id": "52527098169138",
+      "spend": "3.49",
+      "impressions": "285",
+      "clicks": "3",
+      "actions": [
+        {
+          "action_type": "link_click",
+          "value": "2"
+        },
+        {
+          "action_type": "page_engagement",
+          "value": "2"
+        },
+        {
+          "action_type": "landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "omni_landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "post_engagement",
+          "value": "2"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1379503393742648",
+          "value": "1"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1100418405334956",
+          "value": "1"
+        }
+      ],
+      "ctr": "1.052632",
+      "cpc": "1.163333",
+      "cpm": "12.245614",
+      "reach": "252",
+      "frequency": "1.130952",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
     {
       "adset_name": "Test 10 — Broad US",
       "adset_id": "52527099421138",
-      "spend": "2.92",
-      "impressions": "158",
+      "spend": "3.78",
+      "impressions": "195",
       "clicks": "1",
       "actions": [
         {
@@ -633,11 +693,11 @@
           "value": "1"
         }
       ],
-      "ctr": "0.632911",
-      "cpc": "2.92",
-      "cpm": "18.481013",
-      "reach": "130",
-      "frequency": "1.215385",
+      "ctr": "0.512821",
+      "cpc": "3.78",
+      "cpm": "19.384615",
+      "reach": "178",
+      "frequency": "1.095506",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     }
@@ -648,9 +708,9 @@
       "ad_id": "52527088268338",
       "adset_name": "Test 1 — Broad US",
       "adset_id": "52527087870738",
-      "spend": "2.53",
-      "impressions": "127",
-      "clicks": "3",
+      "spend": "2.89",
+      "impressions": "154",
+      "clicks": "4",
       "actions": [
         {
           "action_type": "link_click",
@@ -681,11 +741,11 @@
           "value": "1"
         }
       ],
-      "ctr": "2.362205",
-      "cpc": "0.843333",
-      "cpm": "19.92126",
-      "reach": "112",
-      "frequency": "1.133929",
+      "ctr": "2.597403",
+      "cpc": "0.7225",
+      "cpm": "18.766234",
+      "reach": "139",
+      "frequency": "1.107914",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -740,13 +800,13 @@
       "ad_id": "52527089499738",
       "adset_name": "Test 2 — Broad US",
       "adset_id": "52527088909538",
-      "spend": "0.78",
-      "impressions": "40",
+      "spend": "1.6",
+      "impressions": "53",
       "clicks": "0",
       "ctr": "0",
-      "cpm": "19.5",
-      "reach": "35",
-      "frequency": "1.142857",
+      "cpm": "30.188679",
+      "reach": "49",
+      "frequency": "1.081633",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -755,8 +815,8 @@
       "ad_id": "52527090145538",
       "adset_name": "Test 2 — Broad US",
       "adset_id": "52527088909538",
-      "spend": "1.69",
-      "impressions": "99",
+      "spend": "2.01",
+      "impressions": "127",
       "clicks": "1",
       "actions": [
         {
@@ -788,11 +848,11 @@
           "value": "1"
         }
       ],
-      "ctr": "1.010101",
-      "cpc": "1.69",
-      "cpm": "17.070707",
-      "reach": "92",
-      "frequency": "1.076087",
+      "ctr": "0.787402",
+      "cpc": "2.01",
+      "cpm": "15.826772",
+      "reach": "109",
+      "frequency": "1.165138",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -806,8 +866,8 @@
       "clicks": "0",
       "ctr": "0",
       "cpm": "17.5",
-      "reach": "4",
-      "frequency": "2",
+      "reach": "8",
+      "frequency": "1",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -816,14 +876,44 @@
       "ad_id": "52527091364938",
       "adset_name": "Test 3 — Broad US",
       "adset_id": "52527090267338",
-      "spend": "1.74",
-      "impressions": "118",
+      "spend": "2.45",
+      "impressions": "150",
       "clicks": "1",
-      "ctr": "0.847458",
-      "cpc": "1.74",
-      "cpm": "14.745763",
-      "reach": "107",
-      "frequency": "1.102804",
+      "actions": [
+        {
+          "action_type": "link_click",
+          "value": "1"
+        },
+        {
+          "action_type": "page_engagement",
+          "value": "1"
+        },
+        {
+          "action_type": "landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "omni_landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "post_engagement",
+          "value": "1"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1379503393742648",
+          "value": "2"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1100418405334956",
+          "value": "2"
+        }
+      ],
+      "ctr": "0.666667",
+      "cpc": "2.45",
+      "cpm": "16.333333",
+      "reach": "135",
+      "frequency": "1.111111",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -832,13 +922,13 @@
       "ad_id": "52527092123938",
       "adset_name": "Test 4 — Broad US",
       "adset_id": "52527091472938",
-      "spend": "1.16",
-      "impressions": "92",
+      "spend": "1.59",
+      "impressions": "129",
       "clicks": "0",
       "ctr": "0",
-      "cpm": "12.608696",
-      "reach": "71",
-      "frequency": "1.295775",
+      "cpm": "12.325581",
+      "reach": "111",
+      "frequency": "1.162162",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -847,14 +937,14 @@
       "ad_id": "52527092911338",
       "adset_name": "Test 4 — Broad US",
       "adset_id": "52527091472938",
-      "spend": "0.77",
-      "impressions": "57",
+      "spend": "0.83",
+      "impressions": "66",
       "clicks": "1",
-      "ctr": "1.754386",
-      "cpc": "0.77",
-      "cpm": "13.508772",
-      "reach": "55",
-      "frequency": "1.036364",
+      "ctr": "1.515152",
+      "cpc": "0.83",
+      "cpm": "12.575758",
+      "reach": "62",
+      "frequency": "1.064516",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -863,13 +953,13 @@
       "ad_id": "52527093850338",
       "adset_name": "Test 5 — Broad US",
       "adset_id": "52527093116938",
-      "spend": "0.17",
-      "impressions": "9",
+      "spend": "0.24",
+      "impressions": "12",
       "clicks": "0",
       "ctr": "0",
-      "cpm": "18.888889",
-      "reach": "9",
-      "frequency": "1",
+      "cpm": "20",
+      "reach": "11",
+      "frequency": "1.090909",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -878,14 +968,28 @@
       "ad_id": "52527094506138",
       "adset_name": "Test 5 — Broad US",
       "adset_id": "52527093116938",
-      "spend": "1.54",
-      "impressions": "107",
-      "clicks": "1",
-      "ctr": "0.934579",
-      "cpc": "1.54",
-      "cpm": "14.392523",
-      "reach": "95",
-      "frequency": "1.126316",
+      "spend": "1.91",
+      "impressions": "137",
+      "clicks": "3",
+      "actions": [
+        {
+          "action_type": "link_click",
+          "value": "2"
+        },
+        {
+          "action_type": "page_engagement",
+          "value": "2"
+        },
+        {
+          "action_type": "post_engagement",
+          "value": "2"
+        }
+      ],
+      "ctr": "2.189781",
+      "cpc": "0.636667",
+      "cpm": "13.941606",
+      "reach": "126",
+      "frequency": "1.087302",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -894,8 +998,8 @@
       "ad_id": "52527095196938",
       "adset_name": "Test 6 — Broad US",
       "adset_id": "52527094600338",
-      "spend": "2.07",
-      "impressions": "151",
+      "spend": "2.63",
+      "impressions": "187",
       "clicks": "1",
       "actions": [
         {
@@ -927,11 +1031,11 @@
           "value": "1"
         }
       ],
-      "ctr": "0.662252",
-      "cpc": "2.07",
-      "cpm": "13.708609",
-      "reach": "134",
-      "frequency": "1.126866",
+      "ctr": "0.534759",
+      "cpc": "2.63",
+      "cpm": "14.064171",
+      "reach": "173",
+      "frequency": "1.080925",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -940,13 +1044,13 @@
       "ad_id": "52527095663738",
       "adset_name": "Test 6 — Broad US",
       "adset_id": "52527094600338",
-      "spend": "0.1",
-      "impressions": "11",
+      "spend": "0.12",
+      "impressions": "14",
       "clicks": "0",
       "ctr": "0",
-      "cpm": "9.090909",
-      "reach": "10",
-      "frequency": "1.1",
+      "cpm": "8.571429",
+      "reach": "14",
+      "frequency": "1",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -955,8 +1059,8 @@
       "ad_id": "52527096170538",
       "adset_name": "Test 7 — Broad US",
       "adset_id": "52527095718138",
-      "spend": "1.91",
-      "impressions": "202",
+      "spend": "2.63",
+      "impressions": "272",
       "clicks": "3",
       "actions": [
         {
@@ -1004,11 +1108,11 @@
           "value": "1"
         }
       ],
-      "ctr": "1.485149",
-      "cpc": "0.636667",
-      "cpm": "9.455446",
-      "reach": "178",
-      "frequency": "1.134831",
+      "ctr": "1.102941",
+      "cpc": "0.876667",
+      "cpm": "9.669118",
+      "reach": "250",
+      "frequency": "1.088",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -1017,8 +1121,8 @@
       "ad_id": "52527096831938",
       "adset_name": "Test 7 — Broad US",
       "adset_id": "52527095718138",
-      "spend": "0.51",
-      "impressions": "63",
+      "spend": "0.55",
+      "impressions": "66",
       "clicks": "1",
       "actions": [
         {
@@ -1050,11 +1154,11 @@
           "value": "1"
         }
       ],
-      "ctr": "1.587302",
-      "cpc": "0.51",
-      "cpm": "8.095238",
-      "reach": "58",
-      "frequency": "1.086207",
+      "ctr": "1.515152",
+      "cpc": "0.55",
+      "cpm": "8.333333",
+      "reach": "61",
+      "frequency": "1.081967",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -1063,54 +1167,8 @@
       "ad_id": "52527098088938",
       "adset_name": "Test 8 — Broad US",
       "adset_id": "52527096966138",
-      "spend": "2.52",
-      "impressions": "175",
-      "clicks": "2",
-      "actions": [
-        {
-          "action_type": "link_click",
-          "value": "1"
-        },
-        {
-          "action_type": "page_engagement",
-          "value": "1"
-        },
-        {
-          "action_type": "landing_page_view",
-          "value": "1"
-        },
-        {
-          "action_type": "omni_landing_page_view",
-          "value": "1"
-        },
-        {
-          "action_type": "post_engagement",
-          "value": "1"
-        },
-        {
-          "action_type": "offsite_conversion.custom.1379503393742648",
-          "value": "1"
-        },
-        {
-          "action_type": "offsite_conversion.custom.1100418405334956",
-          "value": "1"
-        }
-      ],
-      "ctr": "1.142857",
-      "cpc": "1.26",
-      "cpm": "14.4",
-      "reach": "168",
-      "frequency": "1.041667",
-      "date_start": "2026-03-10",
-      "date_stop": "2026-03-24"
-    },
-    {
-      "ad_name": "baby_shower — invitfull_639555072_848270621594605_5125015891654666317_n_baby_shower_2026-03-23_12-19-38",
-      "ad_id": "52527098754738",
-      "adset_name": "Test 9 — Broad US",
-      "adset_id": "52527098169138",
-      "spend": "1.88",
-      "impressions": "179",
+      "spend": "3.45",
+      "impressions": "243",
       "clicks": "3",
       "actions": [
         {
@@ -1122,15 +1180,77 @@
           "value": "2"
         },
         {
+          "action_type": "landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "omni_landing_page_view",
+          "value": "1"
+        },
+        {
           "action_type": "post_engagement",
           "value": "2"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1379503393742648",
+          "value": "1"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1100418405334956",
+          "value": "1"
         }
       ],
-      "ctr": "1.675978",
-      "cpc": "0.626667",
-      "cpm": "10.502793",
-      "reach": "161",
-      "frequency": "1.111801",
+      "ctr": "1.234568",
+      "cpc": "1.15",
+      "cpm": "14.197531",
+      "reach": "229",
+      "frequency": "1.061135",
+      "date_start": "2026-03-10",
+      "date_stop": "2026-03-24"
+    },
+    {
+      "ad_name": "baby_shower — invitfull_639555072_848270621594605_5125015891654666317_n_baby_shower_2026-03-23_12-19-38",
+      "ad_id": "52527098754738",
+      "adset_name": "Test 9 — Broad US",
+      "adset_id": "52527098169138",
+      "spend": "2.74",
+      "impressions": "264",
+      "clicks": "3",
+      "actions": [
+        {
+          "action_type": "link_click",
+          "value": "2"
+        },
+        {
+          "action_type": "page_engagement",
+          "value": "2"
+        },
+        {
+          "action_type": "landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "omni_landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "post_engagement",
+          "value": "2"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1379503393742648",
+          "value": "1"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1100418405334956",
+          "value": "1"
+        }
+      ],
+      "ctr": "1.136364",
+      "cpc": "0.913333",
+      "cpm": "10.378788",
+      "reach": "249",
+      "frequency": "1.060241",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -1139,13 +1259,13 @@
       "ad_id": "52527099304338",
       "adset_name": "Test 9 — Broad US",
       "adset_id": "52527098169138",
-      "spend": "0.71",
-      "impressions": "14",
+      "spend": "0.75",
+      "impressions": "21",
       "clicks": "0",
       "ctr": "0",
-      "cpm": "50.714286",
-      "reach": "14",
-      "frequency": "1",
+      "cpm": "35.714286",
+      "reach": "20",
+      "frequency": "1.05",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -1154,13 +1274,13 @@
       "ad_id": "52527100017138",
       "adset_name": "Test 10 — Broad US",
       "adset_id": "52527099421138",
-      "spend": "2.18",
-      "impressions": "116",
+      "spend": "2.66",
+      "impressions": "139",
       "clicks": "0",
       "ctr": "0",
-      "cpm": "18.793103",
-      "reach": "108",
-      "frequency": "1.074074",
+      "cpm": "19.136691",
+      "reach": "129",
+      "frequency": "1.077519",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     },
@@ -1169,8 +1289,8 @@
       "ad_id": "52527100738538",
       "adset_name": "Test 10 — Broad US",
       "adset_id": "52527099421138",
-      "spend": "0.74",
-      "impressions": "42",
+      "spend": "1.12",
+      "impressions": "56",
       "clicks": "1",
       "actions": [
         {
@@ -1202,11 +1322,11 @@
           "value": "1"
         }
       ],
-      "ctr": "2.380952",
-      "cpc": "0.74",
-      "cpm": "17.619048",
-      "reach": "35",
-      "frequency": "1.2",
+      "ctr": "1.785714",
+      "cpc": "1.12",
+      "cpm": "20",
+      "reach": "50",
+      "frequency": "1.12",
       "date_start": "2026-03-10",
       "date_stop": "2026-03-24"
     }
@@ -1215,9 +1335,9 @@
     {
       "ad_name": "baby_shower — invitfull_483914283_1583054812504281_5722107140579263194_n_baby_shower_2026-03-22_17-58-32",
       "ad_id": "52527088268338",
-      "spend": "2.53",
-      "impressions": "127",
-      "clicks": "3",
+      "spend": "2.89",
+      "impressions": "154",
+      "clicks": "4",
       "actions": [
         {
           "action_type": "link_click",
@@ -1248,10 +1368,10 @@
           "value": "1"
         }
       ],
-      "ctr": "2.362205",
-      "cpc": "0.843333",
-      "cpm": "19.92126",
-      "frequency": "1.133929",
+      "ctr": "2.597403",
+      "cpc": "0.7225",
+      "cpm": "18.766234",
+      "frequency": "1.107914",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
@@ -1301,20 +1421,20 @@
     {
       "ad_name": "baby_shower — invitfull_497510807_1235790328270374_5960851249395550923_n_baby_shower_2026-03-22_17-58-32",
       "ad_id": "52527089499738",
-      "spend": "0.78",
-      "impressions": "40",
+      "spend": "1.6",
+      "impressions": "53",
       "clicks": "0",
       "ctr": "0",
-      "cpm": "19.5",
-      "frequency": "1.142857",
+      "cpm": "30.188679",
+      "frequency": "1.081633",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
     {
       "ad_name": "baby_shower — invitfull_505861666_560916063538143_8631472829286734646_n_baby_shower_2026-03-22_17-58-21",
       "ad_id": "52527090145538",
-      "spend": "1.69",
-      "impressions": "99",
+      "spend": "2.01",
+      "impressions": "127",
       "clicks": "1",
       "actions": [
         {
@@ -1346,10 +1466,10 @@
           "value": "1"
         }
       ],
-      "ctr": "1.010101",
-      "cpc": "1.69",
-      "cpm": "17.070707",
-      "frequency": "1.076087",
+      "ctr": "0.787402",
+      "cpc": "2.01",
+      "cpm": "15.826772",
+      "frequency": "1.165138",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
@@ -1361,78 +1481,122 @@
       "clicks": "0",
       "ctr": "0",
       "cpm": "17.5",
-      "frequency": "2",
+      "frequency": "1",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
     {
       "ad_name": "baby_shower — invitfull_579711182_2024080588353368_2552049126451735985_n_baby_shower_2026-03-23_11-48-27",
       "ad_id": "52527091364938",
-      "spend": "1.74",
-      "impressions": "118",
+      "spend": "2.45",
+      "impressions": "150",
       "clicks": "1",
-      "ctr": "0.847458",
-      "cpc": "1.74",
-      "cpm": "14.745763",
-      "frequency": "1.102804",
+      "actions": [
+        {
+          "action_type": "link_click",
+          "value": "1"
+        },
+        {
+          "action_type": "page_engagement",
+          "value": "1"
+        },
+        {
+          "action_type": "landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "omni_landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "post_engagement",
+          "value": "1"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1379503393742648",
+          "value": "2"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1100418405334956",
+          "value": "2"
+        }
+      ],
+      "ctr": "0.666667",
+      "cpc": "2.45",
+      "cpm": "16.333333",
+      "frequency": "1.111111",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
     {
       "ad_name": "baby_shower — invitfull_586126917_1409537570879384_6207988797427858178_n_baby_shower_2026-03-22_17-58-32",
       "ad_id": "52527092123938",
-      "spend": "1.16",
-      "impressions": "92",
+      "spend": "1.59",
+      "impressions": "129",
       "clicks": "0",
       "ctr": "0",
-      "cpm": "12.608696",
-      "frequency": "1.295775",
+      "cpm": "12.325581",
+      "frequency": "1.162162",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
     {
       "ad_name": "baby_shower — invitfull_600240598_4071845299730580_3679231299579398641_n_baby_shower_2026-03-22_18-00-57",
       "ad_id": "52527092911338",
-      "spend": "0.77",
-      "impressions": "57",
+      "spend": "0.83",
+      "impressions": "66",
       "clicks": "1",
-      "ctr": "1.754386",
-      "cpc": "0.77",
-      "cpm": "13.508772",
-      "frequency": "1.036364",
+      "ctr": "1.515152",
+      "cpc": "0.83",
+      "cpm": "12.575758",
+      "frequency": "1.064516",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
     {
       "ad_name": "baby_shower — invitfull_611603080_1659926118772530_8901187320417728411_n_baby_shower_2026-03-22_18-01-32",
       "ad_id": "52527093850338",
-      "spend": "0.17",
-      "impressions": "9",
+      "spend": "0.24",
+      "impressions": "12",
       "clicks": "0",
       "ctr": "0",
-      "cpm": "18.888889",
-      "frequency": "1",
+      "cpm": "20",
+      "frequency": "1.090909",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
     {
       "ad_name": "baby_shower — invitfull_611603080_1659926118772530_8901187320417728411_n_baby_shower_2026-03-23_11-49-13",
       "ad_id": "52527094506138",
-      "spend": "1.54",
-      "impressions": "107",
-      "clicks": "1",
-      "ctr": "0.934579",
-      "cpc": "1.54",
-      "cpm": "14.392523",
-      "frequency": "1.126316",
+      "spend": "1.91",
+      "impressions": "137",
+      "clicks": "3",
+      "actions": [
+        {
+          "action_type": "link_click",
+          "value": "2"
+        },
+        {
+          "action_type": "page_engagement",
+          "value": "2"
+        },
+        {
+          "action_type": "post_engagement",
+          "value": "2"
+        }
+      ],
+      "ctr": "2.189781",
+      "cpc": "0.636667",
+      "cpm": "13.941606",
+      "frequency": "1.087302",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
     {
       "ad_name": "baby_shower — invitfull_615800621_1779714152712708_3869823633141985911_n_baby_shower_2026-03-22_18-01-19",
       "ad_id": "52527095196938",
-      "spend": "2.07",
-      "impressions": "151",
+      "spend": "2.63",
+      "impressions": "187",
       "clicks": "1",
       "actions": [
         {
@@ -1464,30 +1628,30 @@
           "value": "1"
         }
       ],
-      "ctr": "0.662252",
-      "cpc": "2.07",
-      "cpm": "13.708609",
-      "frequency": "1.126866",
+      "ctr": "0.534759",
+      "cpc": "2.63",
+      "cpm": "14.064171",
+      "frequency": "1.080925",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
     {
       "ad_name": "baby_shower — invitfull_632244722_2149269765608735_3207807689048899109_n_baby_shower_2026-03-23_11-49-11",
       "ad_id": "52527095663738",
-      "spend": "0.1",
-      "impressions": "11",
+      "spend": "0.12",
+      "impressions": "14",
       "clicks": "0",
       "ctr": "0",
-      "cpm": "9.090909",
-      "frequency": "1.1",
+      "cpm": "8.571429",
+      "frequency": "1",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
     {
       "ad_name": "baby_shower — invitfull_634334497_956936407005917_6835906571871897938_n_baby_shower_2026-03-23_12-19-22",
       "ad_id": "52527096170538",
-      "spend": "1.91",
-      "impressions": "202",
+      "spend": "2.63",
+      "impressions": "272",
       "clicks": "3",
       "actions": [
         {
@@ -1535,18 +1699,18 @@
           "value": "1"
         }
       ],
-      "ctr": "1.485149",
-      "cpc": "0.636667",
-      "cpm": "9.455446",
-      "frequency": "1.134831",
+      "ctr": "1.102941",
+      "cpc": "0.876667",
+      "cpm": "9.669118",
+      "frequency": "1.088",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
     {
       "ad_name": "baby_shower — invitfull_635108075_2109446729824323_541027639428339206_n_baby_shower_2026-03-23_11-49-20",
       "ad_id": "52527096831938",
-      "spend": "0.51",
-      "impressions": "63",
+      "spend": "0.55",
+      "impressions": "66",
       "clicks": "1",
       "actions": [
         {
@@ -1578,61 +1742,18 @@
           "value": "1"
         }
       ],
-      "ctr": "1.587302",
-      "cpc": "0.51",
-      "cpm": "8.095238",
-      "frequency": "1.086207",
+      "ctr": "1.515152",
+      "cpc": "0.55",
+      "cpm": "8.333333",
+      "frequency": "1.081967",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
     {
       "ad_name": "baby_shower — invitfull_638120022_1479245190384911_4946580755226314173_n_baby_shower_2026-03-23_12-19-26",
       "ad_id": "52527098088938",
-      "spend": "2.52",
-      "impressions": "175",
-      "clicks": "2",
-      "actions": [
-        {
-          "action_type": "link_click",
-          "value": "1"
-        },
-        {
-          "action_type": "page_engagement",
-          "value": "1"
-        },
-        {
-          "action_type": "landing_page_view",
-          "value": "1"
-        },
-        {
-          "action_type": "omni_landing_page_view",
-          "value": "1"
-        },
-        {
-          "action_type": "post_engagement",
-          "value": "1"
-        },
-        {
-          "action_type": "offsite_conversion.custom.1379503393742648",
-          "value": "1"
-        },
-        {
-          "action_type": "offsite_conversion.custom.1100418405334956",
-          "value": "1"
-        }
-      ],
-      "ctr": "1.142857",
-      "cpc": "1.26",
-      "cpm": "14.4",
-      "frequency": "1.041667",
-      "date_start": "2026-03-24",
-      "date_stop": "2026-03-24"
-    },
-    {
-      "ad_name": "baby_shower — invitfull_639555072_848270621594605_5125015891654666317_n_baby_shower_2026-03-23_12-19-38",
-      "ad_id": "52527098754738",
-      "spend": "1.88",
-      "impressions": "179",
+      "spend": "3.45",
+      "impressions": "243",
       "clicks": "3",
       "actions": [
         {
@@ -1644,46 +1765,105 @@
           "value": "2"
         },
         {
+          "action_type": "landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "omni_landing_page_view",
+          "value": "1"
+        },
+        {
           "action_type": "post_engagement",
           "value": "2"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1379503393742648",
+          "value": "1"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1100418405334956",
+          "value": "1"
         }
       ],
-      "ctr": "1.675978",
-      "cpc": "0.626667",
-      "cpm": "10.502793",
-      "frequency": "1.111801",
+      "ctr": "1.234568",
+      "cpc": "1.15",
+      "cpm": "14.197531",
+      "frequency": "1.061135",
+      "date_start": "2026-03-24",
+      "date_stop": "2026-03-24"
+    },
+    {
+      "ad_name": "baby_shower — invitfull_639555072_848270621594605_5125015891654666317_n_baby_shower_2026-03-23_12-19-38",
+      "ad_id": "52527098754738",
+      "spend": "2.74",
+      "impressions": "264",
+      "clicks": "3",
+      "actions": [
+        {
+          "action_type": "link_click",
+          "value": "2"
+        },
+        {
+          "action_type": "page_engagement",
+          "value": "2"
+        },
+        {
+          "action_type": "landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "omni_landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "post_engagement",
+          "value": "2"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1379503393742648",
+          "value": "1"
+        },
+        {
+          "action_type": "offsite_conversion.custom.1100418405334956",
+          "value": "1"
+        }
+      ],
+      "ctr": "1.136364",
+      "cpc": "0.913333",
+      "cpm": "10.378788",
+      "frequency": "1.060241",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
     {
       "ad_name": "baby_shower — invitfull_645332897_813075521828620_4018831135180528760_n_baby_shower_2026-03-22_18-03-45",
       "ad_id": "52527099304338",
-      "spend": "0.71",
-      "impressions": "14",
+      "spend": "0.75",
+      "impressions": "21",
       "clicks": "0",
       "ctr": "0",
-      "cpm": "50.714286",
-      "frequency": "1",
+      "cpm": "35.714286",
+      "frequency": "1.05",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
     {
       "ad_name": "baby_shower — invitfull_646353941_765695932957822_134281113812027533_n_baby_shower_2026-03-23_11-50-11",
       "ad_id": "52527100017138",
-      "spend": "2.18",
-      "impressions": "116",
+      "spend": "2.66",
+      "impressions": "139",
       "clicks": "0",
       "ctr": "0",
-      "cpm": "18.793103",
-      "frequency": "1.074074",
+      "cpm": "19.136691",
+      "frequency": "1.077519",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     },
     {
       "ad_name": "baby_shower — invitfull_646383254_1231688095339739_8816841992449704559_n_baby_shower_2026-03-22_18-04-15",
       "ad_id": "52527100738538",
-      "spend": "0.74",
-      "impressions": "42",
+      "spend": "1.12",
+      "impressions": "56",
       "clicks": "1",
       "actions": [
         {
@@ -1715,10 +1895,10 @@
           "value": "1"
         }
       ],
-      "ctr": "2.380952",
-      "cpc": "0.74",
-      "cpm": "17.619048",
-      "frequency": "1.2",
+      "ctr": "1.785714",
+      "cpc": "1.12",
+      "cpm": "20",
+      "frequency": "1.12",
       "date_start": "2026-03-24",
       "date_stop": "2026-03-24"
     }
@@ -1731,7 +1911,7 @@
       "creative": {
         "id": "946258791226767",
         "effective_object_story_id": "917868684732619_122128522023127477",
-        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/654231993_122129107125121474_1564604179600635751_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=P3YVafpXTLcQ7kNvwHK7XiZ&_nc_oc=Adp_svllTUpKwQgSHMOZvZv9IEUWLY6AgPXzNnhQXkwe8Xk1cSwsfEhHSSFtiO-pofv0GKG4La1wPVWpR6EtnJFg&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQFlR8ZHnCXpJ991FtnbCaCAbVLQmg2C_igD-wKojWqc6XSII3zSieZ8YU6K6sxaWrzRWxqDZSqY8w&oh=00_Afyd4oV27M1-eRmqbnYL1_oupvKB02RE93NDsej-UEwQmQ&oe=69C82CB5"
+        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/654231993_122129107125121474_1564604179600635751_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=P3YVafpXTLcQ7kNvwHRW4OF&_nc_oc=AdoQrXTTpzsBnFHQbHFbJ56i2a-yTEUyXJwrnCT2QzesJl2OCebZIJ6RpEIRGRvq2FO3uwfd8qmbc15mxPyE83_E&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQGYCQz05OQ16lWMbjkxXS_qA9uNaJtWOCvEQwVHK8dBEYT_wYBXdhB9tnZb3KWQkedxr5G2hmEC_g&oh=00_AfwFM7i1ftIteyLP6_XdveRZVSe3zxcjU9iKT_2I-jrhnw&oe=69C864F5"
       },
       "created_time": "2026-03-23T04:36:26-0700",
       "id": "52527088828138"
@@ -1743,7 +1923,7 @@
       "creative": {
         "id": "1298521932204763",
         "effective_object_story_id": "917868684732619_122128521993127477",
-        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/653645196_122129107089121474_5506526079142941368_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=2_zw_jtjGxMQ7kNvwGwhcEE&_nc_oc=Ado5okOvtdZgGzxFAmU9mpd-fX7_C1SSPakscvzlOXN4TvinrPhjwRVaASxPQFECJ-bgZlimGt9jqbjZHwYx_0wV&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQH422Las1TBZ3iX84H7gQlL6P5fXuecd8_gBfA5UcNi2H8yNl_kKckcxdBwkl1pT-IOr_rT_Il44w&oh=00_AfxH1_e3tvX8uXrAjaoFMi0rcalGbp3eTW9ZHY75PRJ1ZA&oe=69C8377E"
+        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/653645196_122129107089121474_5506526079142941368_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=2_zw_jtjGxMQ7kNvwGO9KFl&_nc_oc=AdpmY0beU0EixD8jT7IKy2gCoYB37NccW0sJ0KRkTfMOzVve1-pA2jTYGXs3P_I134APkpq2ESg9aiyl7P8WPNx2&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQEGuhMGK1n5A7oMaRtWYX4VDDXntC4HAHYp3g1ZAnad7lzBZ4CJc-2fC1x9fo-qnsCK1KjWFnWkpg&oh=00_AfxPclBk4GWRlyhlchgnqVXkR_sOINVZfQNuu2I1qDKYnw&oe=69C8377E"
       },
       "created_time": "2026-03-23T04:36:19-0700",
       "id": "52527088268338"
@@ -1755,7 +1935,7 @@
       "creative": {
         "id": "2468036290294099",
         "effective_object_story_id": "917868684732619_122128522071127477",
-        "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t45.1600-4/654669967_122129107179121474_1440183953243912167_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=h23pQEVLHRsQ7kNvwFcbsNd&_nc_oc=AdpVh_YFO8cAEgGky1Bgyc6Kn0nRShkIWhtlFdOiP_DsyQ48-2FrzzlB7pfwIsGV_CeSA8dYL5WO42nEbMz5TTFh&_nc_zt=1&_nc_ht=scontent-fra5-2.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQG_U9wyJivq9manVX913UzPpPhcG-OgivoomHduEUZ4U8C3dHq2YbSjc9rmCAIVOwiKrv4ROG5CJg&oh=00_AfwBCEhWapN8EBeX8cnqeP-OtWIXHqRqGWKkC2VZtPfqZg&oe=69C83891"
+        "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t45.1600-4/654669967_122129107179121474_1440183953243912167_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=h23pQEVLHRsQ7kNvwEboxIG&_nc_oc=AdpgYa0gvGViF2u_2M6l58CxXN3XaD26P92MsBmk_kk7IkfjLta2RknSX3_w35ruoAq0Iq_vGDS8L6BMmcQIoJvB&_nc_zt=1&_nc_ht=scontent-fra5-2.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQGXD40aSY47YkwayyaswDRt_gu4c09NoeyRuoCw28uH9EFBQVYzbSLcakx6tCrxl6L-q7YmYE2RZg&oh=00_AfwsV7UbPNJufXeerVMP29d9m-kcLtacjXnBYJ-aXUp-CQ&oe=69C83891"
       },
       "created_time": "2026-03-23T04:36:34-0700",
       "id": "52527089499738"
@@ -1767,7 +1947,7 @@
       "creative": {
         "id": "1943683332954460",
         "effective_object_story_id": "917868684732619_122128522125127477",
-        "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t45.1600-4/657318372_122129107299121474_2584111606543153611_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=BLwGpU0mvfkQ7kNvwFMCeyY&_nc_oc=AdppQOpxiKxv54SchUxIbXLx_koZ7Xd4nwHZ-YUAB4oLRp6GZR66pMXSODEhb_dnBLXse8dWNaq4z_54HwIwJDp1&_nc_zt=1&_nc_ht=scontent-fra5-2.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQErkw0vTBO-IS9C17cbRaxc7Moy84sAl7VTnMfC4ZB5ohLEK7OcBniFbnKtKvhASkV3uQbywnETag&oh=00_Afxr_uEF2Kczu58UeQYONTnor1BfDY6sfJwuw8pzvubqEQ&oe=69C84327"
+        "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t45.1600-4/657318372_122129107299121474_2584111606543153611_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=BLwGpU0mvfkQ7kNvwEOqtAl&_nc_oc=Adqt4KE5HrigPThnRbVcAZmHYrdg4oACJL-ZT-Mzu3f2urFw_2vQJIaAotlnL6ylke4w_mlTsdvhR4JEPgAOn2YM&_nc_zt=1&_nc_ht=scontent-fra5-2.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQG-oNGdc4n7Tk-wkJlH4Nxt9WxaekXD1hM1ALYHgrNljfE_D5mmILvGv6sn2IAJop4K9G2aGFewnQ&oh=00_AfyW3QLu0mhEEjqQ3aYYlbwXh8pZxbYHIzBsD8340-aHpQ&oe=69C84327"
       },
       "created_time": "2026-03-23T04:36:49-0700",
       "id": "52527090832938"
@@ -1779,7 +1959,7 @@
       "creative": {
         "id": "822040500917727",
         "effective_object_story_id": "917868684732619_122128522359127477",
-        "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t45.1600-4/655471043_122129107647121474_4011600580832746024_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=VvhGs9OuVEAQ7kNvwERayJl&_nc_oc=AdrYIthO0GzXuw7y8_Aiw8njc5MrWEcpJzOWqRh1SPhPbVzFGhuUiqcWS3KVeHbarq7LpQxixkv5_5mZDQbtFvp7&_nc_zt=1&_nc_ht=scontent-fra3-2.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQGSrCSksTh9zpzcSIFvcM3fG0WvEASQXVuJPTQRDI4_sy9aqMYNYC-daRhXVAG8HMbJAU0mprwZew&oh=00_Afw8bLmQnVPsVDZWWhcf_VMc7f-tkSPPJWby_riNrWhOhA&oe=69C85C29"
+        "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t45.1600-4/655471043_122129107647121474_4011600580832746024_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=VvhGs9OuVEAQ7kNvwHrVf3a&_nc_oc=AdoyJ-Sixr5aEnoe2dulsjNt0z4SbIWIpcP7CD48ClU46p49pH4SuCp5-v1nybEMDPH94OYeiOQec60OlSmeCRMJ&_nc_zt=1&_nc_ht=scontent-fra3-2.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQGGk_s5ozGALD79jvtVNfboZn-sqi36ar5tfsrfJKHQOJia6L02HmYjCIroR6es3EggjIfmZfDxWg&oh=00_AfzQA4fAsKh_M3dqpBruNHNPL8ZDIxF7r04koTofmVJ_oQ&oe=69C85C29"
       },
       "created_time": "2026-03-23T04:37:40-0700",
       "id": "52527095663738"
@@ -1791,7 +1971,7 @@
       "creative": {
         "id": "927922056506930",
         "effective_object_story_id": "917868684732619_122128522299127477",
-        "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t45.1600-4/654169052_122129107419121474_4920879421289715558_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=mBJGAHcOv5YQ7kNvwEMnN3_&_nc_oc=AdqEdzxcYie0-TSaQlN2WdXUpeX2axzamSfbhhOr-zCJNDFXaTP0QzZKLHheWITqmv7JONxR46mDYK9rVTaqGgOE&_nc_zt=1&_nc_ht=scontent-fra5-2.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQGxTM0K3zzhUV2teveuRxEMPzuTbKXRQSOXXZrKlBZ8cIv6o1NON1MtsowGUEWUvjTHRL_PpQt0_Q&oh=00_AfyM_c4-u2WK6puNwS2ArQIyuRe3zQdDyES0q8N88Fu8MQ&oe=69C84DA6"
+        "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t45.1600-4/654169052_122129107419121474_4920879421289715558_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=mBJGAHcOv5YQ7kNvwEJY_ox&_nc_oc=AdqNgkF3NAAgesrPOeBtWSi-RUPt383K_n5OamdVJJiTncyZ-68UVAwctVy0x47kfE3PC1zgvQkfKEixipFfojrj&_nc_zt=1&_nc_ht=scontent-fra5-2.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQEo8cPkWQXNdnli4s92H2u4Nb1rnAu7ANEmHZJLZzTNpn0Wl5GRbFyu-wjmzfJhlogCoGUWJbF1Mg&oh=00_Afw-5P1ti0KEEqWv605HRfUrHo7Gv2cbI56ut4qNmWXKbQ&oe=69C84DA6"
       },
       "created_time": "2026-03-23T04:37:26-0700",
       "id": "52527094506138"
@@ -1803,7 +1983,7 @@
       "creative": {
         "id": "1954578445147889",
         "effective_object_story_id": "917868684732619_122128522341127477",
-        "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t45.1600-4/655589904_122129107623121474_6478240672377829963_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=jL6moGj_NIEQ7kNvwG8Tylw&_nc_oc=AdoO7HnMA3SbmcORF7CccNffP8x5MfwM5NI_YSVmJ0uXY8KxpQ42qYgOe664HO_5sO6KuOKiWxpjH56n8khbd4ff&_nc_zt=1&_nc_ht=scontent-fra5-2.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQGrhWLN0-oEyfEniPVrAJdL5nuWKa2TQALXQ5Zety9Y0CtYu4Wj5tfI08Ylrz1PqhJhGjbyualXDA&oh=00_AfyOz3Hei79YCFoC8bTo5GGM0XGNdiZj-Of2tCo6jyme7g&oe=69C82F7F"
+        "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t45.1600-4/655589904_122129107623121474_6478240672377829963_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=jL6moGj_NIEQ7kNvwEK4vts&_nc_oc=AdqoJ_n6365vta4t6FVgSZxuj3GlqAMwfn664tOUQ-e956eHkxfx6x1oj4ufpfU8_qI31rooCMQJZyEAsZG5CgVk&_nc_zt=1&_nc_ht=scontent-fra5-2.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQEIjcik7VuQbTmdlQTVrLg0C_9eT8k_JZ50W0PVddojPEvuo3eGGqOO-MwQCuI6_wVVr3AzkRuS3g&oh=00_AfxkJCpKrkMrMbRj7LCSUJyTO1wvGRBuHrKWH_joV_eenQ&oe=69C867BF"
       },
       "created_time": "2026-03-23T04:37:33-0700",
       "id": "52527095196938"
@@ -1815,7 +1995,7 @@
       "creative": {
         "id": "922264893909748",
         "effective_object_story_id": "917868684732619_122128522191127477",
-        "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t45.1600-4/654024872_122129107359121474_8803132338197043153_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=4yA-XMPqZ_8Q7kNvwELDduz&_nc_oc=Ado_riFlekJZ2B8H_uAndhyX2-pYsUSyrRDahRgAGOESN8GqaeWAblwshMGakRLF5I3q677je6we5YFex9obWAXn&_nc_zt=1&_nc_ht=scontent-fra5-2.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQHx2fiB3-VsJHOR6Nr1MZulXeJaNsCYOOCZAdB_zqC2hZOA83DpO_z4z5yRNlEDbgx9rCC2a5mT5Q&oh=00_Afy-3kx9kL4RD1OxfSJ-EtBW7kki3XA6GvjdZfq9tnJz5g&oe=69C8301F"
+        "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t45.1600-4/654024872_122129107359121474_8803132338197043153_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=4yA-XMPqZ_8Q7kNvwEaxhlj&_nc_oc=AdqYBP96ui1r0Y-_GyFyP49lglo9o67KG081d9HTVYZuqQ5xFUDFEdPYXddilS5In91t8vqIlfiN_zfQODu3ck7Q&_nc_zt=1&_nc_ht=scontent-fra5-2.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQF5wPpQtJvWiF_mIog8wwMx34dB7zGRD5E2m_TsuXNlh1Ni5GsUaCSXqOQchPRsDPbvQ5mCgGtGMg&oh=00_Afyjqa16MqB2OEKH7OC52bmhABHtVCgnzzpSOYVlmezA_w&oe=69C8685F"
       },
       "created_time": "2026-03-23T04:37:03-0700",
       "id": "52527092123938"
@@ -1827,7 +2007,7 @@
       "creative": {
         "id": "1272838321454033",
         "effective_object_story_id": "917868684732619_122128522401127477",
-        "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t45.1600-4/657157527_122129107665121474_3912777756011953494_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=wrB7UZ9Yi0sQ7kNvwEsuhxb&_nc_oc=AdoDPnoDxNvwvE5ZE8VV5-rsaWMA8nhu0Jnfa-D8P3-vJ8pIoDl75QA8_u2OpyEs0Fu0_Rzf2JG0kb6U9h7bl4Tw&_nc_zt=1&_nc_ht=scontent-fra5-2.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQFZpcqr2Niuox1zWvAcaDylV8uRD-cp3lBbsDEWfVlEvF1ZW21XnCOKrIKdAlI3H7DEsy4OjJk6gw&oh=00_Afwl0NCFpz5QNDOUHIkcyHN_EojRBwFez9Zp5xctREWY9Q&oe=69C860F7"
+        "image_url": "https://scontent-fra5-2.xx.fbcdn.net/v/t45.1600-4/657157527_122129107665121474_3912777756011953494_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=wrB7UZ9Yi0sQ7kNvwH-ISPi&_nc_oc=Adr2LydNW2oYnY3E8CQylGrOvJishApeXUhR1znDDojNK4oYiF-QGGk7RkVi6bZdF-cR5JOY1eXkK7rfpz5XZMVB&_nc_zt=1&_nc_ht=scontent-fra5-2.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQGlk2yByZE9TYp8TMSm2OYoOOTOJE4NDMGQq-mG593eaTkP6HS5xwjILjdglSUQM-6-bzkePQUUDQ&oh=00_AfystyMdyuCfnBJu7vNwLnNiHpPaHS0xd2g-9FgIh3VKaQ&oe=69C860F7"
       },
       "created_time": "2026-03-23T04:37:48-0700",
       "id": "52527096170538"
@@ -1839,7 +2019,7 @@
       "creative": {
         "id": "2110242399734148",
         "effective_object_story_id": "917868684732619_122128522605127477",
-        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/655144907_122129108349121474_5726993112649905107_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=4R_qVbvc85sQ7kNvwFX4djj&_nc_oc=AdqqiVylTyBHwIpFmzNYCZMO_TQf88bebvMM25M0us2BkJD5Vz9CL3VAnBANCrzvN02QTpqBvoMW2GMrHICzd-Hz&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQFfOilGqn03Eqrj6IdCtSIJIR_WRtEfawaWaKGwSsEvitpcn2sdLDcbrwiooXTpNx08C4Y9iqfb9A&oh=00_AfxvmrYejfeknTSitJC0AiHXOCFbTJEzEnOgsXmn48MVzg&oe=69C839A6"
+        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/655144907_122129108349121474_5726993112649905107_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=4R_qVbvc85sQ7kNvwG6bx-s&_nc_oc=AdrXulYjgZybLAaeilYUSPv8vabMRxZWYz3xoMpzpfaRj94h1H7dwDUUJInQUN7hTmvpd1jbBYysiZgUeNTQwUmf&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQHlL6VCuOL0ptoSTcOI_lGP0OOjHkX7_FjNdvoZc25FdbrSyOuV_iZskOjjEmlmJdHuuzAVpLC5OA&oh=00_AfxpHPIG04EO9T_P17qmQKRsAsG-uhxnMkyTheOh1PA6PA&oe=69C839A6"
       },
       "created_time": "2026-03-23T04:38:11-0700",
       "id": "52527098088938"
@@ -1851,7 +2031,7 @@
       "creative": {
         "id": "983588174348094",
         "effective_object_story_id": "917868684732619_122128522269127477",
-        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/655048191_122129107395121474_7746936591527725496_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=wb9ase-UvFIQ7kNvwEEVn8G&_nc_oc=AdpC33dNH0-gpCMFmqwjobnA6kw719q3Nk3k4jUtKNlmVa97MoJMgqbsfTL-zMaxtCoYA-gY09CAJ5014AFmQRLx&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQG0ZOhhxzZLbzytGyfQBgz6ZTPvK9nHvxi0WTh6b1fD-840v1nIDEbXcHQQ83fRIm27IPvYTIKNBQ&oh=00_AfyO33MBw0zEnuQcqHIYcGRHnU8VjgitLJ0JUPKtoaIJvA&oe=69C84297"
+        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/655048191_122129107395121474_7746936591527725496_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=wb9ase-UvFIQ7kNvwGAPkMh&_nc_oc=AdoVLtBbsVCZf8ujopwBfU76dGk9bS4Qo5ZnNuhoHxBCKpibLMvTATijn3eZKyrAoa-eao1_c2wCUX5_ffJWuqBA&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQGwIvhzRT9nM-xW9EGvAHEvLX3F9WOYgNv9IgWoh1nEDsTk9ajpH-xJezdtlKyw4OvgBHfomvbI2A&oh=00_Afy0T8HQVJEHX_dTRg-3NjWRTRBd6n3cnvJh_SJldB1OPw&oe=69C84297"
       },
       "created_time": "2026-03-23T04:37:19-0700",
       "id": "52527093850338"
@@ -1863,7 +2043,7 @@
       "creative": {
         "id": "2179327312885326",
         "effective_object_story_id": "917868684732619_122128522491127477",
-        "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t45.1600-4/653687847_122129107797121474_5992689039612626439_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=zDwcWwGv1JAQ7kNvwHn9Jah&_nc_oc=AdrqBh1L9iiogb3PjgvjDUqYfUuK9owxO3_dtb9Z56rfPVhaWMivO9qPKOm8bYhZOkFw5wuaKisyrdn1OAQ2oP7k&_nc_zt=1&_nc_ht=scontent-fra5-1.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQGl4ZuZsZACu90A2D1k-2CQTa7MwRkz5RLL06IfVHkfocDVwsmj2lDjkxVWXWWTb5vW6PJEWD-dfg&oh=00_AfylVrc8B3S_aJmCiYzAlkaNyWgjUu5jiMLVTCXGO-9Kcw&oe=69C85B34"
+        "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t45.1600-4/653687847_122129107797121474_5992689039612626439_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=zDwcWwGv1JAQ7kNvwGcfPYO&_nc_oc=AdpyzYi5WLWD98z3Hyj6cLFFkuZ18qN9AegFOV4kL2YFi6wzYqd_7qlVjePXmzziFGbwZJxA8GE4fqaFZKwCyyEf&_nc_zt=1&_nc_ht=scontent-fra5-1.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQE6FiuEe7I7KzDSHI8C8N98Rm2XwiEjf0UHRZoF3yIkMPn-IlMPeNDYlPa63InPiJ2AcIASilgv1A&oh=00_AfxOMN7CCf7xxFpQ12e-VFH4t21wZ9gzB5cy3HShpKl3xQ&oe=69C85B34"
       },
       "created_time": "2026-03-23T04:38:04-0700",
       "id": "52527097501938"
@@ -1875,7 +2055,7 @@
       "creative": {
         "id": "1706238907419898",
         "effective_object_story_id": "917868684732619_122128522443127477",
-        "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t45.1600-4/657364352_122129107701121474_7773795171020445192_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=vzQATEbvvVwQ7kNvwFR6VmW&_nc_oc=AdrVGCLqiOidpMidKkwMg8L0vIY2MXa1Ir06h2Zzp7hKwTIDbzrTqDKpaxLf6OL3BWlWP9DZ8OWVp1qpcUSmtefx&_nc_zt=1&_nc_ht=scontent-fra5-1.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQEFtzrDUOU2lP7p61VjznUyb-IhfE-AhtbAdhnFBFAYQYA9137BKy7Bn7B6Hcisa1Lujig3sNWC0g&oh=00_AfyRbgIunr6ILrjVSpqJ2AxuZ1Y9Qj_MToJgApxjQt9B5g&oe=69C836A8"
+        "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t45.1600-4/657364352_122129107701121474_7773795171020445192_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=vzQATEbvvVwQ7kNvwGOa6CQ&_nc_oc=AdorwZy7pesRrRT08n7-sOA6pxETi0gk04scaS0WioGnu0Hai8GkOnLtlQzSWgQ1OPC-1xwYFbBARSzsYhW4o5Th&_nc_zt=1&_nc_ht=scontent-fra5-1.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQEmId2jnMfgkScmrFWIz_sRMIwQjJG91V5MRKjfknl2lvkykqZpvQ0bvG15NQccWj0KiSM4yaafDw&oh=00_Afz30zM7zwoMkr386HRLsAhAaHeVDK7UgRw9bFIhxM-sAg&oe=69C836A8"
       },
       "created_time": "2026-03-23T04:37:56-0700",
       "id": "52527096831938"
@@ -1887,7 +2067,7 @@
       "creative": {
         "id": "3303239673168903",
         "effective_object_story_id": "917868684732619_122128522239127477",
-        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/654054662_122129107377121474_80804133372865654_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=bGpxe1ESgYoQ7kNvwHWEwG4&_nc_oc=AdriBrsTf5chIcf808tqdn7Emiz6M_OEmmbsnKqIyHpSkvA-iqNF7V_GgZHDMOC6HQAk0Rw8mmFDPEMOF44nC0F8&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQE0HnB1KgHvaA1EvvDepIDZg-TyuuuoqLNBsVu6B6sj5jDGl45HY28jrzIa83hBDd6qh7j8zm07cg&oh=00_Afxb0sVhcQWoVEI6af1k6jGye1-xgvp6XEbmPey5UcMJBA&oe=69C82DCC"
+        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/654054662_122129107377121474_80804133372865654_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=bGpxe1ESgYoQ7kNvwGtcUOZ&_nc_oc=Adp52b5Q_QPfAt4GOyudWwud6MLWZmk7Ck_dnkBus1bFtqaQKiwjudqZ6sGJVGusgsvbXfZ29bhBLlu2gmE2wU1R&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQFXYjdJKec3ELwUvaSgGBRmPoYqrMf0TnbRKcjMKQ0IDl325C4sU1p4b9JmSM9hmCe2oIFHiE1YVQ&oh=00_AfxISjhTVu4T0pKiiy15JVHv3Ba0G6SPx6txW49RuJhlnQ&oe=69C8660C"
       },
       "created_time": "2026-03-23T04:37:10-0700",
       "id": "52527092911338"
@@ -1899,7 +2079,7 @@
       "creative": {
         "id": "1634594501617419",
         "effective_object_story_id": "917868684732619_122128522749127477",
-        "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t45.1600-4/656209938_122129108421121474_1280842860007575558_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=as1jEmmLdUMQ7kNvwFcEq90&_nc_oc=AdrDyoaPg6CHnV0_UemqSNZOaD6qaZemA4NhbRaLmblP1pKzl68J3gClQf7Apt6iU4Db6TZU-ypCwHkA5a1cuZYh&_nc_zt=1&_nc_ht=scontent-fra5-1.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQFsOmY0FSJnQ-g19fiNIYGJ2FlL39NIApmyz5ME0Sj4COgfngS8zIu1yUfM1rSL9UtBiqr2BZOXqA&oh=00_Afy0bVSin9adx7Vd3qXmV6XkIw1vfhCUbyhv6xW3ujmRgw&oe=69C85EA1"
+        "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t45.1600-4/656209938_122129108421121474_1280842860007575558_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=as1jEmmLdUMQ7kNvwFLzqp0&_nc_oc=AdrSxH5jiB0GHdh-_baVpVT3yKXegJVEHBCVm8ywf0E8qf0biUVzWu7wrvaCK7Lq8mL9Qo86yxtLGLDWmqLW7dgD&_nc_zt=1&_nc_ht=scontent-fra5-1.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQFfMbs26F5Mj1DTXZQE37TdvYwB-AppLXKx02aCKrnAsxuXqyf6WCTu8so1Z6S4Fm5aevZs5h48Og&oh=00_AfxCaxlbdQHQnJpgqi5aw2VKLizecY0Z_RiGb5TbLw8nCQ&oe=69C85EA1"
       },
       "created_time": "2026-03-23T04:38:25-0700",
       "id": "52527099304338"
@@ -1911,7 +2091,7 @@
       "creative": {
         "id": "966737212447814",
         "effective_object_story_id": "917868684732619_122128522671127477",
-        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/653994741_122129108403121474_3601769730106591559_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=B_07uhJD0ecQ7kNvwFjRvLh&_nc_oc=AdrCcmNliQz8cVWt7B-9qopIMtg1KPa_X_1qGW37xFhNg1-G2-HSYsUfXWFsegU0ykYWC8fJcU7dQRi5Mva_U4tn&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQFEoZSTatWiF9Rja6GcaG9uGSPdYiZY7CUrE3EW2YB2Gkua8olLkKg_8CF-HXd10oeBaTuY630MQQ&oh=00_AfwbPiTEPYXYmxhge-B1mSmIhudGQu83Mr93hdq_l1tXcQ&oe=69C837F8"
+        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/653994741_122129108403121474_3601769730106591559_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=B_07uhJD0ecQ7kNvwFiIB0n&_nc_oc=Ado3ddqRCztuNaX8WdFmDCDpCpD62ATpx45EFAd7p7slLy2q1kb7KpgDBYYYEM7qTc3uGdX336-Zyf852lAJS4Ee&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQFbAPeZgYvBB8LYbQJO3Y8zd9jZf2hCjGbP4wWn3Gyyo5to3wep58oHGC19QJc_8ZIdvnHXyLuJEQ&oh=00_Afwr4m0dAZ3e1I-ofP4pzb_eOMahk0qGBu4vF7N5ONcMTA&oe=69C837F8"
       },
       "created_time": "2026-03-23T04:38:19-0700",
       "id": "52527098754738"
@@ -1923,7 +2103,7 @@
       "creative": {
         "id": "905762399120244",
         "effective_object_story_id": "917868684732619_122128522821127477",
-        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/654473229_122129108625121474_1095339465481079859_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=b9vtncL0zqMQ7kNvwFvASvV&_nc_oc=Adocgz-eZHHrAQJgmf1-wtJ3KeuxIUXrH9vr_A9KWBKJG4Abz1-P55lWe12UJtBsdzNbqUQ41bTTHqeLL0tTK4W1&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQFVtipbnwpFeNG6sIVg0T6i_qpE2YjPjVULbfkP-IbM_MzGqNrDMqJcDi-vS_k1FnQjdjh_bM4KVA&oh=00_Afy09W1CXgbfl-rp3R6ER29tttSJGKPqoJSOubnZRwmlzQ&oe=69C862CA"
+        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/654473229_122129108625121474_1095339465481079859_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=b9vtncL0zqMQ7kNvwFkFnpV&_nc_oc=AdpFtwZYQxCbO02x_ZAtQFmLMEQ2CayuCQGICLPzclxzljxUocX3emDFP8lV77X6PUx4NJl0vt6ZpPc3W_JBkk2D&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQGMHPYxLQINxQemdbz7zc2BeUreJ6Z8BrL7hf-0GQa3AieLAKrWPus6W8IusMlshENJkIVUJOdX5A&oh=00_AfwNQiIoeOEDD-8HLvUPIQrAa-0qSuggvBVEUMH4Tw21Nw&oe=69C862CA"
       },
       "created_time": "2026-03-23T04:38:33-0700",
       "id": "52527100017138"
@@ -1935,7 +2115,7 @@
       "creative": {
         "id": "912892534861263",
         "effective_object_story_id": "917868684732619_122128522107127477",
-        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/655497958_122129107263121474_3181766369963706847_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=IwmhniGN7B8Q7kNvwHAnqCu&_nc_oc=AdpKvnkHDj3XlWr1Tisuuwn1nbE89u9GMY5bwOyxR1PjtWUu1s8BSAvuY5FQaE8w20uct2x7s7OMkrubUekZ5HNh&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQFPVZaCtBg6RdokMvNdNb2_9RzNQhE_0DhsNuC7pLHbBO4VSRvvFF9tpWERKkn11T-ez_C3HFd78w&oh=00_AfysSLBUR8fANSyTdjh8UAqk18u4TTVBglHBn1Ch1cbhQg&oe=69C84BB8"
+        "image_url": "https://scontent-fra3-1.xx.fbcdn.net/v/t45.1600-4/655497958_122129107263121474_3181766369963706847_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=IwmhniGN7B8Q7kNvwFIv6OZ&_nc_oc=AdqJIDdxtiQpQkc0l4pf55SuClkGD7v0NmIKgi2Rg828dAbvkOhXfkKnQjjTAH5QYfEc_r5ObXEHDjHAJzeUFJ37&_nc_zt=1&_nc_ht=scontent-fra3-1.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQF_w21nZh3PAug5ymhEMgKmZ3Gbqk-iUnYLGcUcoEbUsXM7BCuPSc6FMsZXBx5o7NW38KL-LXhOXQ&oh=00_Afysb18tPEy-UYSVgwAb0gJLKVTdeSoXtN2krxT29AkrXg&oe=69C84BB8"
       },
       "created_time": "2026-03-23T04:36:41-0700",
       "id": "52527090145538"
@@ -1947,7 +2127,7 @@
       "creative": {
         "id": "1247022310394761",
         "effective_object_story_id": "917868684732619_122128522851127477",
-        "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t45.1600-4/655582627_122129108643121474_4743957158208418334_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=5gvtzV2qIZ0Q7kNvwEgJ2uL&_nc_oc=AdqIvziWM4SOAXcjLD6tlm8xYe7iha7midQ1dacXYRrVsjJi9pgTokj7H9rrkAjfl4FCmUaCkjSZO4XQHvJRIvrL&_nc_zt=1&_nc_ht=scontent-fra3-2.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQGScxQiA2ssC9om_LrXPKQTUv37WdWElKKKkPB32BIxBUUAdvii1ooehk8JCAm49cz4s6VmgS91ew&oh=00_AfwPQeSijbMH-6P-jaXeONjzFrc4a2u5iUe3M4IUI-V9YQ&oe=69C85D66"
+        "image_url": "https://scontent-fra3-2.xx.fbcdn.net/v/t45.1600-4/655582627_122129108643121474_4743957158208418334_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=5gvtzV2qIZ0Q7kNvwGTadx1&_nc_oc=AdpLPUKOAWfycqjKsAFAVs028iHbMfVBnQTtmS3UgYrlRZx8_9Kdjm4O4T12DdmM_pHB1WuFHlhrYyEX7vWsMnQQ&_nc_zt=1&_nc_ht=scontent-fra3-2.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQEkc66HjubKo9oySn55peHIsxk_8Nmrl37vS6YAMmJ4hGwRreM07ZPo0iN55NAcvocR9aamUm3z0w&oh=00_AfxpZ4RNzgq6xDl5tnEsL_2afW8TE0twU1V5dBwBpU_iJw&oe=69C85D66"
       },
       "created_time": "2026-03-23T04:38:40-0700",
       "id": "52527100738538"
@@ -1959,7 +2139,7 @@
       "creative": {
         "id": "1275856871278071",
         "effective_object_story_id": "917868684732619_122128522155127477",
-        "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t45.1600-4/656059370_122129107335121474_614276610142149013_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=l6mSK_FN7FoQ7kNvwH1qrZ1&_nc_oc=AdobPpprzR3rQ9kFHe1pEw-iENP_q8k3n0_akZElCYetA69XP-LJLKGQhFr5A2-o2hPzKf8VXgvcehsMRmzpkpez&_nc_zt=1&_nc_ht=scontent-fra5-1.xx&edm=ANIILHsEAAAA&_nc_gid=Z_fsh0zdJjxtGVP_kL_CVg&_nc_tpa=Q5bMBQGh0egmc9bXXbSL_wSgeHsT1e0YZxaE98LdcxDojST-RgzcKal_SNhzfocxlq2IXzSoei8NfYepGA&oh=00_Afx1Awgaw5kvHhNXmade9SNwpaBR4zVZLnkEGvnSpHADEQ&oe=69C8322B"
+        "image_url": "https://scontent-fra5-1.xx.fbcdn.net/v/t45.1600-4/656059370_122129107335121474_614276610142149013_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=d5bd00&_nc_ohc=l6mSK_FN7FoQ7kNvwGJwbpI&_nc_oc=AdpHOxWb-79sbwUbju1jc6ucK-ASK_wVsUZK0-Gj8ivQH5KuCttj2NN0JS3b8Z4Wd2wWWbkrqXaphcQ_mkS9-Z4j&_nc_zt=1&_nc_ht=scontent-fra5-1.xx&edm=ANIILHsEAAAA&_nc_gid=X2DtWq8906X0pPcBn-P_ww&_nc_tpa=Q5bMBQESLoDHWm-fQ6m--HYhDYAALZ6FAlP1pYR_paqExCmcLnOd3LVBdB_wsMKgrxzN8NnxJqVXtyM-vQ&oh=00_AfxSqkKTGgxs7DGM5qIpAgVZJxyEhT0iHsAb7sLbI60d4A&oe=69C86A6B"
       },
       "created_time": "2026-03-23T04:36:56-0700",
       "id": "52527091364938"
