@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2026-03-24",
+    "dryRun": true,
+    "actions": [],
+    "warnings": [],
+    "summary": {
+      "totalAds": 18,
+      "winners": 0,
+      "losers": 0,
+      "totalSpend": 13.09,
+      "totalConversions": 0
+    }
+  }
+]

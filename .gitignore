@@ -1,0 +1,16 @@
+# Gitignore - secrets and large files
+.env
+scripts/.meta_token
+.meta_token
+node_modules/
+*.mp4
+*.mov
+baby-shower/output/
+baby-shower/generations*/
+baby-shower/new*/
+baby-shower/reserve/
+kids-birthday/output/
+general/output/
+scripts/__pycache__/
+.DS_Store
+
