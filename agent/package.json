@@ -1,0 +1,13 @@
+{
+  "name": "invitfull-meta-ads-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node agent.js",
+    "dry-run": "DRY_RUN=1 node agent.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0",
+    "dotenv": "^16.3.1"
+  }
+}
